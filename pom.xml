@@ -26,6 +26,12 @@
       <version>4.13.1</version>
       <scope>test</scope>
     </dependency>
+    <dependency>
+    <groupId>org.apache.tomcat</groupId>
+    <artifactId>tomcat-catalina</artifactId>
+    <version>9.0.93</version>
+    </dependency>
+
   </dependencies>
 
   <build>
