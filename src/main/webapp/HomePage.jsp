@@ -6,6 +6,6 @@
                 <a href="index.jsp">
                         HomePage
                 </a>
-                <h1 align="center">This is Anky Assasins</h1>
+                <h1 align="center">This is..Anky Assasins</h1>
         </body>
 </html>
