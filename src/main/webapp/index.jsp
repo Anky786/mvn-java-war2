@@ -2,7 +2,7 @@
         <head>
            <title>AboutPage</title>
         </head>
-        <body style="background-color:yellow">
+        <body style="background-color:blue">
                 <a href="HomePage.jsp">
                         HomePage
                 </a>
