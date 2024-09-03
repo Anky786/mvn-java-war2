@@ -1,5 +1,11 @@
 <html>
-<body style="background-color:green">
-<h2 align="center"><%= "..!!...Anky Assasin..!!..." %></h2>
-</body>
+        <head>
+           <title>AboutPage</title>
+        </head>
+        <body style="background-color:green">
+                <a href="Home.html">
+                        HomePage
+                </a>
+                <h1 align="center">This is Anky Page</h1>
+        </body>
 </html>
